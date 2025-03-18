@@ -3,9 +3,9 @@
 	"id": "tryhardfilter",
 	"version": "${version}",
 	"name": "tryhardfilter",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "A mod to filter out any message you send to play on the bum's streamer friend's server",
 	"authors": [
-		"Me!"
+		"DanPlus6"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
@@ -13,7 +13,7 @@
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/tryhardfilter/icon.png",
-	"environment": "*",
+	"environment": "client",
 	"entrypoints": {
 		"main": [
 			"net.tryhardfilter.Tryhardfilter"
