@@ -8,8 +8,8 @@
 		"DanPlus6"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://localhost",
+		"sources": "https://github.com/Dave-New-Dev/tryhardfilter-v1"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/tryhardfilter/icon.png",
