@@ -3,7 +3,7 @@
 	"id": "tryhardfilter",
 	"version": "${version}",
 	"name": "tryhardfilter",
-	"description": "A mod to filter out any message you send to play on the bum's streamer friend's server",
+	"description": "A mod to filter out any message you send to play on the bum's streamer friend's server (say cmd approach)",
 	"authors": [
 		"DanPlus6"
 	],
